@@ -1,5 +1,5 @@
 # XAct_SE
 
-A simple search engine focused on simplicity.
+A search engine focused on simplicity.
 
 Still under development.
