@@ -1,5 +1,7 @@
 # XAct_SE
 
-A simple search engine focused on simplicity.
+## A search engine focused on simplicity and minimalist features.
 
-Still under development.
+Built with: Go, Tailwind CSS, HTMX, Templ and Air for reloading
+
+## Still under development.
